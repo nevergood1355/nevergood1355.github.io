@@ -111,12 +111,6 @@ h5, h6          { font-weight: bolder }
     position: relative;
 }
 
-.smart{
-    width: 100%;
-    height: 690px;
-    position: relative;
-}
-
 .billboard.light{
     background: url('../img/billboard.jpg') no-repeat;   
      
@@ -126,18 +120,9 @@ h5, h6          { font-weight: bolder }
     -o-background-size: cover;
 }
 
-.smart.light{
+.billboard.dark{
     background: url('../img/smart.jpg') no-repeat;   
      
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-}
-
-.billboard.dark{
-    background: url('../img/billboard.jpg') no-repeat;
-    
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
